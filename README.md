@@ -1,16 +1,18 @@
-### Hi there 👋
+<h1>Hi there, I'm Tesnim. Welcome to my Github!<br/><a href="https://www.linkedin.com/in/tesnim-hamdouni/">Student</a>, <a href="https://github.com/tesnim5hamdouni">Cybersecurity Enthusiast</a>
 
-<!--
-**tesnim5hamdouni/tesnim5hamdouni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>👨‍💻 Cybersecurity Projects</h2>
 
-Here are some ideas to get you started:
+- <b>[Azure Sentinel](https://github.com/tesnim5hamdouni/SIEMxSentinel)</b>
+  - Set up a honeypot in Azure and configured Azure Sentinel workbook to display global attack data (RDP brute force attacks) on a world map.
+  - The logs were collected from Windows Event Viewer on the honeypot and were processed by a third-party API to extract geographic information. The data were then fed to the SIEM using a custom PowerShell script.
+- <b>[Active Directory Home Lab](https://github.com/tesnim5hamdouni/AD-home-lab)</b>
+  - Set up AD on server 2019 and use a PowerShell script to provision user accounts.</b></i>
+- <b>Nessus Vulnerability management</b>
+  - Install and configure Nessus Essentials on a VM
+  - Implement vulnerability management function on sandbox networks following the Vulnerability Management Lifecycle (Discover, Prioritize Assets, Assess, Report, Remediate, Verify) 
+- <b>[DHCP spoofing attack](https://github.com/tesnim5hamdouni/DHCP-spoofing)</b>
+  - Simulate a DHCP spoofing attack following 3 stages : DHCP starvation, usurpation and phishing.
+- <b>[TCP SYN flooding attack](https://github.com/tesnim5hamdouni/TCP-SYN-flooding)</b>
+  - Launch a TCP SYN flooding attack on a targeted server causing a denial of service to any legitimate client trying to connect.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
