@@ -14,5 +14,7 @@
   - Simulate a DHCP spoofing attack following 3 stages : DHCP starvation, usurpation and phishing.
 - <b>[TCP SYN flooding attack](https://github.com/tesnim5hamdouni/TCP-SYN-flooding)</b>
   - Launch a TCP SYN flooding attack on a targeted server causing a denial of service to any legitimate client trying to connect.
+- <b>[DNS hijacking](https://github.com/tesnim5hamdouni/DNS-Hijacking)</b>
+  - The idea is to observe the traffic in the network using promiscuous mode, capture the DNS packets, parse them, build a reply and send it to the client before the authentic DNS server can. 
 
 
