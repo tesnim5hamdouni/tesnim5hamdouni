@@ -7,7 +7,7 @@
   - The logs were collected from Windows Event Viewer on the honeypot and were processed by a third-party API to extract geographic information. The data were then fed to the SIEM using a custom PowerShell script.
 - <b>[Active Directory Home Lab](https://github.com/tesnim5hamdouni/AD-home-lab)</b>
   - Set up AD on server 2019 and use a PowerShell script to provision user accounts.</b></i>
-- <b>[Nessus Vulnerability management](https://github.com/tesnim5hamdouni/Nessus-Vulnerability-Assessment)</b>
+- <b>[Nessus Vulnerability management]</b>
   - Install and configure Nessus Essentials on a VM
   - Implement vulnerability management function on sandbox networks following the Vulnerability Management Lifecycle (Discover, Prioritize Assets, Assess, Report, Remediate, Verify) 
 - <b>[DHCP spoofing attack](https://github.com/tesnim5hamdouni/DHCP-spoofing)</b>
