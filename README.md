@@ -18,3 +18,4 @@
   - The idea is to observe the traffic in the network using promiscuous mode, capture the DNS packets, parse them, build a reply and send it to the client before the authentic DNS server can. 
 
 
+<img src="https://t.bkit.co/w_651c6d488eafd.gif" />
