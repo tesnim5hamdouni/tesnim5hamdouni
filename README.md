@@ -15,4 +15,6 @@
   - The idea is to observe the traffic in the network using promiscuous mode, capture the DNS packets, parse them, build a reply and send it to the client before the authentic DNS server can. 
 
 
-<img src="https://t.bkit.co/w_651c6d488eafd.gif" />
+<a href="https://trackgit.com">
+<img src="https://us-central1-trackgit-analytics.cloudfunctions.net/token/ping/lnbdtwj9ci9icgnb4cpl" alt="trackgit-views" />
+</a>
